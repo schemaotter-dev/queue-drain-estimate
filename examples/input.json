@@ -1,0 +1,5 @@
+{
+  "backlog": 100,
+  "consume_per_second": 30,
+  "produce_per_second": 10
+}
